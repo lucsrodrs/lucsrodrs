@@ -39,7 +39,7 @@ O projeto envolveu modelagem relacional e análise de dados reais.
 
 ##  Como me encontrar
 [🔗 LinkedIn](https://www.linkedin.com/in/lucsrodrs/)  
-📬 Em breve: Portfólio online (em construção)
+Em breve: Portfólio online (em construção)
 
 ---
 
