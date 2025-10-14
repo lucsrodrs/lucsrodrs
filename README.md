@@ -33,7 +33,6 @@ O projeto envolveu modelagem relacional e análise de dados reais.
 ##  Tecnologias e Ferramentas
 - Python • Java • JavaScript • HTML • CSS • C • MySQL 
 - Pandas • NumPy • Matplotlib    
-- Interesse crescente em Machine Learning e Data Science
 
 ---
 
